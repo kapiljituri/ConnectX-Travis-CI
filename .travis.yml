@@ -1,0 +1,12 @@
+language: cpp
+
+compiler:
+  - gcc
+
+before_script:
+  - make clean
+
+script:
+  - make
+  - ./ConnectXTest
+  
