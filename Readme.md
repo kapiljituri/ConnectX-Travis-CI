@@ -1,3 +1,5 @@
+Travis CI Build status: <img src="https://travis-ci.org/kapiljituri/ConnectX-Travis-CI.svg?branch=master"/>
+
 ConnectX Bug Report
 ---------
 
