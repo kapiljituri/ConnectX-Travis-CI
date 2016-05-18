@@ -1,4 +1,4 @@
-ConnectX Bug Report <img src="https://travis-ci.org/kapiljituri/ConnectX-Travis-CI.svg?branch=master"/>
+ConnectX Bug Report [![Build Status](https://travis-ci.org/kapiljituri/ConnectX-Travis-CI.svg?branch=master)](https://travis-ci.org/kapiljituri/ConnectX-Travis-CI)
 ---------
 
 ### Total tests performed: 9
