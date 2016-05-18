@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/gtest-test-part_test.dir/test/gtest-test-part_test.cc.o  -o gtest-test-part_test  -L/home/kapil/630/a6/googletest/googletest/build/googlemock/gtest/src -rdynamic libgtest_main.a libgtest.a -lpthread -Wl,-rpath,/home/kapil/630/a6/googletest/googletest/build/googlemock/gtest/src 
