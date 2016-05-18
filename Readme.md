@@ -1,6 +1,4 @@
-Travis CI Build status: <img src="https://travis-ci.org/kapiljituri/ConnectX-Travis-CI.svg?branch=master"/>
-
-ConnectX Bug Report
+ConnectX Bug Report <img src="https://travis-ci.org/kapiljituri/ConnectX-Travis-CI.svg?branch=master"/>
 ---------
 
 ### Total tests performed: 9
