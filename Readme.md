@@ -63,4 +63,6 @@ Failed tests
             }
 
 
-**This project makes use of (GoogleTest)[https://github.com/google/googletest] for testing code coverage.**
+**This project makes use of [GoogleTest][1] for testing code coverage.**
+
+[1]: https://github.com/google/googletest
